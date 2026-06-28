@@ -149,3 +149,9 @@ Key takeaways include:
 - Organizing technicians, departments, and users within a help desk platform
 - Troubleshooting common Windows, Microsoft Outlook, printer, file share, and network connectivity issues
 - Maintaining professional documentation that supports future troubleshooting and knowledge sharing
+
+---
+
+## Portfolio Summary
+
+This project demonstrates practical experience with help desk administration, customer support, ticket lifecycle management, and technical troubleshooting using osTicket. Combined with my Active Directory Home Lab and Microsoft 365 Administration Lab, it represents a hands-on portfolio focused on the technologies and workflows commonly used in entry-level IT Support and Help Desk roles.
