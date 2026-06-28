@@ -80,3 +80,57 @@ The following real-world IT support scenarios were completed:
 - File Share & Network Drive Support
 - Technician Documentation
 - Professional Communication
+
+---
+
+## Project Screenshots
+
+### Help Desk Configuration
+
+| Admin Dashboard | Departments |
+|----------------|-------------|
+| ![](screenshots/01-admin-dashboard.png) | ![](screenshots/02-departments.png) |
+
+| Agents | Users |
+|--------|-------|
+| ![](screenshots/03-agents.png) | ![](screenshots/04-users.png) |
+
+---
+
+### Ticket 1 – Windows Password Reset
+
+| Open | Thread | Closed |
+|------|--------|--------|
+| ![](screenshots/05-ticket-password-reset-open.png) | ![](screenshots/06-ticket-password-reset-thread.png) | ![](screenshots/07-ticket-password-reset-closed.png) |
+
+---
+
+### Ticket 2 – Office Printer Issue
+
+| Open | Closed |
+|------|--------|
+| ![](screenshots/08-ticket-printer-open.png) | ![](screenshots/09-ticket-printer-closed.png) |
+
+---
+
+### Ticket 3 – Network Drive Issue
+
+| Open | Thread | Closed |
+|------|--------|--------|
+| ![](screenshots/10-ticket-mapped-drive-open.png) | ![](screenshots/11-ticket-mapped-drive-thread.png) | ![](screenshots/12-ticket-mapped-drive-closed.png) |
+
+---
+
+### Ticket 4 – Outlook Synchronization
+
+| Open | Thread | Closed |
+|------|--------|--------|
+| ![](screenshots/13-ticket-outlook-open.png) | ![](screenshots/14-ticket-outlook-thread.png) | ![](screenshots/15-ticket-outlook-closed.png) |
+
+---
+
+### Ticket 5 – Network Connectivity
+
+| Open | Thread | Closed |
+|------|--------|--------|
+| ![](screenshots/16-ticket-network-open.png) | ![](screenshots/17-ticket-network-thread.png) | ![](screenshots/18-ticket-network-closed.png) |
