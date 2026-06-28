@@ -1,10 +1,42 @@
 # osTicket Help Desk Home Lab
 
+![Platform](https://img.shields.io/badge/osTicket-Help%20Desk-blue)
+![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED)
+![MariaDB](https://img.shields.io/badge/MariaDB-Database-003545)
+![Windows](https://img.shields.io/badge/Windows-11-0078D6)
+
 ## Project Overview
 
 This project demonstrates the deployment, configuration, and day-to-day use of an osTicket help desk environment to simulate a real-world IT support operation.
 
 The lab includes technician management, department configuration, end-user support, ticket lifecycle management, internal documentation, and customer communication. Five common IT support scenarios were completed to demonstrate troubleshooting workflows and professional ticket handling.
+
+### Ticket Workflow
+
+```text
+End User
+    │
+    ▼
+Creates Ticket
+    │
+    ▼
+osTicket Help Desk
+    │
+    ▼
+Assigned Technician
+    │
+    ▼
+Troubleshooting
+    │
+    ▼
+Internal Notes
+    │
+    ▼
+Customer Reply
+    │
+    ▼
+Ticket Closed
+```
 
 ---
 
