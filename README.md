@@ -40,6 +40,18 @@ Ticket Closed
 
 ---
 
+## Knowledge Base Articles
+
+This project also includes internal Knowledge Base documentation for common Help Desk procedures:
+
+| Article | Description |
+|---------|-------------|
+| [Resetting Windows Passwords](knowledge-base/resetting-windows-passwords.md) | Standard process for verifying users, resetting passwords, and restoring account access |
+| [Printer Troubleshooting](knowledge-base/printer-troubleshooting.md) | Troubleshooting steps for stalled print jobs, print queues, and Print Spooler issues |
+| [Mapped Network Drives](knowledge-base/mapped-network-drives.md) | Steps for troubleshooting disconnected or inaccessible mapped drives |
+
+---
+
 ## Objectives
 
 - Deploy and configure an osTicket help desk environment
