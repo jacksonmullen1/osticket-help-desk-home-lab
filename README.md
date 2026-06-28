@@ -62,3 +62,21 @@ The following real-world IT support scenarios were completed:
 | Ticket 3 | Network drive mapping issue |
 | Ticket 4 | Outlook email synchronization |
 | Ticket 5 | Network connectivity after workstation relocation |
+
+---
+
+## Skills Demonstrated
+
+- Help Desk Administration
+- Ticket Lifecycle Management
+- Customer Service
+- Technical Documentation
+- IT Troubleshooting
+- Active Directory Concepts
+- Windows Desktop Support
+- Microsoft Outlook Support
+- Network Troubleshooting
+- Printer Troubleshooting
+- File Share & Network Drive Support
+- Technician Documentation
+- Professional Communication
