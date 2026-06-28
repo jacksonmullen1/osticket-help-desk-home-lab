@@ -29,3 +29,36 @@ The lab includes technician management, department configuration, end-user suppo
 - Windows 11
 - Visual Studio Code
 - GitHub
+
+---
+
+## Project Features
+
+### Help Desk Configuration
+
+- Configured a multi-department help desk environment
+- Created technician accounts with department assignments
+- Added end users and simulated support requests
+- Configured realistic Help Desk workflows
+
+### Ticket Lifecycle Management
+
+Each ticket followed a complete support workflow:
+
+1. User submits ticket
+2. Ticket assigned to technician
+3. Internal troubleshooting notes documented
+4. Technician communicates resolution
+5. Ticket successfully closed
+
+### Ticket Scenarios
+
+The following real-world IT support scenarios were completed:
+
+| Ticket | Scenario |
+|---------|----------|
+| Ticket 1 | Windows password reset |
+| Ticket 2 | Office printer not printing |
+| Ticket 3 | Network drive mapping issue |
+| Ticket 4 | Outlook email synchronization |
+| Ticket 5 | Network connectivity after workstation relocation |
