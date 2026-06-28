@@ -134,3 +134,18 @@ The following real-world IT support scenarios were completed:
 | Open | Thread | Closed |
 |------|--------|--------|
 | ![](screenshots/16-ticket-network-open.png) | ![](screenshots/17-ticket-network-thread.png) | ![](screenshots/18-ticket-network-closed.png) |
+
+---
+
+## Lessons Learned
+
+This project strengthened my understanding of IT Help Desk operations by simulating common support scenarios from initial ticket creation through successful resolution.
+
+Key takeaways include:
+
+- Managing the complete ticket lifecycle from submission to closure
+- Documenting troubleshooting using internal technician notes
+- Communicating technical solutions clearly to end users
+- Organizing technicians, departments, and users within a help desk platform
+- Troubleshooting common Windows, Microsoft Outlook, printer, file share, and network connectivity issues
+- Maintaining professional documentation that supports future troubleshooting and knowledge sharing
